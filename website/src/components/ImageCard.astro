@@ -1,8 +1,8 @@
 ---
 const { item } = Astro.props;
 
-const path = `/images/${item.localImagesPath}/0.jpg`
-
+// const path = `/images/${item.localImagesPath}/0.jpg`
+const path = `${item.images[0]}`
 ---
 
 <div class="mt-8">
