@@ -11,7 +11,9 @@ async function init() {
     const cwd = process.cwd();
 
     const argv = require("minimist")(process.argv.slice(2));
-
+    if (!argv.cookie && argv._) {
+        argv.cookie = argv._;
+    }
     if (argv.cookie) {
         try {
             const res: Response = await getImageBySentence(argv.cookie);
