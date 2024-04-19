@@ -18,7 +18,7 @@ def upload_s3(key, img_content, s3_config):
     #                     )
     # obj = s3.Bucket(s3_config.get('bucket_name')) \
     #     .put_object(Key=key, Body=img_content, ContentType="image/png", ACL="public-read")
-    
+
     session = boto3.Session(aws_access_key_id=s3_config.get('aws_access_key_id'), 
                             aws_secret_access_key=s3_config.get('aws_secret_access_key'), 
                             region_name='auto')
@@ -30,6 +30,8 @@ def upload_s3(key, img_content, s3_config):
 
 # 解析备份文件列表
 def parse_backup_files():
+    if not os.path.exists(backup_txt_path):
+        return []
     with open(backup_txt_path, mode='r', encoding='utf-8') as f:
         return f.read().splitlines()
 
