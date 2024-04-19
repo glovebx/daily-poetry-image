@@ -23,9 +23,8 @@ def upload_s3(key, img_content, s3_config):
                             aws_secret_access_key=s3_config.get('aws_secret_access_key'), 
                             region_name='auto')
     s3 = session.client('s3', endpoint_url=s3_config.get('endpoint_url'))    
-    obj = s3.put_object(Body=img_content, Key=key, Bucket=s3_config.get('bucket_name'), ContentType="image/png", ACL="public-read")
+    response = s3.put_object(Body=img_content, Key=key, Bucket=s3_config.get('bucket_name'), ContentType="image/png", ACL="public-read")
     # response = {attr: getattr(obj, attr) for attr in ['e_tag', 'version_id']}
-    response = {attr: getattr(obj, attr) for attr in ['ETag', 'VersionId']}
     return f'{s3_config.get("img_access_url")}/{key}?versionId={response["VersionId"]}'
 
 
