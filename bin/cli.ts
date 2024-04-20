@@ -14,7 +14,7 @@ let readmeContent = `
 
 ### 👉🏽 [Base On @liruifengv's daily-poetry-image](https://github.com/liruifengv/daily-poetry-image)
 
-### 👉🏽 [Live](https://poem.guluart.com) https://poem.guluart.com
+### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
   最近一次生成时间: CurrentDate
@@ -38,7 +38,7 @@ ImagesContent
 
 ## 订阅
 
-你可以使用 RSS 订阅每天的诗词配图：https://poem.guluart.com/rss.xml
+你可以使用 RSS 订阅每天的诗词配图：https://poem.metaerp.ai//rss.xml
 
 [如何用 RSS 订阅？](https://zhuanlan.zhihu.com/p/55026716)
 
