@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/5/2 07:06:33
+  最近一次生成时间: 2024/5/3 07:06:25
 </p>
 <p align="center">
-归志宁无五亩园，读书本意在元元。
+望庐思其人，入室想所历。
 </p>
 <p align="center">
-<<读书>> • 陆游
+<<悼亡诗三首>> • 潘安
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG4.8JM.U3RC9GhFDtNvDyKf" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.y4hdwmYbVioLFdKuIZHz" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.ecC33mVPB60r0remANNI" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.vRoJR.QEv4dmaqk3jn39" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.3KIV93TjspxN4YBY_pv6" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1..Uo5H0GX27IIiYu0JOHZ" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.7AfFyRr5LupVubdpcoL3" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.0b9io76.8EO5H05BQcbD" height="400" width="400" />
 </p>
 
 ## 项目介绍
