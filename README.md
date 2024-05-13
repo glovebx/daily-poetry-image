@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/5/13 07:05:27
+  最近一次生成时间: 2024/5/14 07:06:06
 </p>
 <p align="center">
-菱叶萦波荷飐风，荷花深处小船通。
+当时父母念，今日尔应知。
 </p>
 <p align="center">
-<<采莲曲>> • 白居易
+<<燕诗示刘叟>> • 白居易
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG4.jDRo.47kx1Suub7koOK6" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.uiUg4De7U.fqxN.BenZj" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.lko1slAToAp1OYdkkTfE" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.a1plftLRBUFLX5nYyZf3" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.Whu5kKEbvnHksz1x6H05" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.7LNjjizUghtQmsvQnfGq" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.WF.PYKHwm7adNVN0sX9j" height="400" width="400" />
 </p>
 
 ## 项目介绍
