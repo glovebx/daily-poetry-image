@@ -1,8 +1,8 @@
 import type { Site, SocialObjects, OG_Type } from "./types";
 
 export const SITE: Site = {
-    website: "https://poem.guluart.com/",
-    author: "guluart",
+    website: "https://poem.metaerp.ai/",
+    author: "metaerp",
     title: "Daily Poetry Images",
     desc: "每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.",
 };
