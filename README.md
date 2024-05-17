@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/5/17 07:06:14
+  最近一次生成时间: 2024/5/18 07:06:13
 </p>
 <p align="center">
-黄河捧土尚可塞，北风雨雪恨难裁。
+了却君王天下事，赢得生前身后名。
 </p>
 <p align="center">
-<<北风行>> • 李白
+<<破阵子·为陈同甫赋壮词以寄之>> • 辛弃疾
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG4.Hb_lG_xX2ezUuKPIysGk" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.LvKD3MJ8wc9anaeIjsRU" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.3flSQLOCyO6KRrRTkZEY" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.f5XcFBNKza9YaAWTFubm" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.himhDfuMCAGwJRwXZuJ6" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.JbEJuwTGsTRHP_q8Ccad" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.KEbL0XldtfFeF6v7264." height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.vhNalO3IhIpPaO7XH.Sx" height="400" width="400" />
 </p>
 
 ## 项目介绍
