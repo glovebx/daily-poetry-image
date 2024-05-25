@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/5/25 07:05:45
+  最近一次生成时间: 2024/5/26 07:05:52
 </p>
 <p align="center">
-马穿山径菊初黄，信马悠悠野兴长。
+唤起封姨清晚景，更将荔子荐新圆。
 </p>
 <p align="center">
-<<村行·马穿山径菊初黄>> • 王禹偁
+<<浣溪沙·中秋坐上十八客>> • 张孝祥
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG4.L5FrRV.qlF6npZ4VWJC4" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.fmO5bEPJkU3d.N4GnZtQ" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.p0ESP7i5sA4Y6M.CiLvi" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.lzBY2wsaA2mhbiDn4AYe" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.WBCveg0Xr1eNwDErYeW_" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.F8vKuFqSttVBomBtLc7r" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.exc4lgA9sdHnu86qznLd" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.WySPcVyAtnSgkhpwMg23" height="400" width="400" />
 </p>
 
 ## 项目介绍
