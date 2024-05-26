@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/5/26 07:05:52
+  最近一次生成时间: 2024/5/27 07:05:32
 </p>
 <p align="center">
-唤起封姨清晚景，更将荔子荐新圆。
+坡谓西湖，正如西子，浓抹淡妆临镜台。
 </p>
 <p align="center">
-<<浣溪沙·中秋坐上十八客>> • 张孝祥
+<<六州歌头·寄稼轩承旨>> • 刘过
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG1.WBCveg0Xr1eNwDErYeW_" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.F8vKuFqSttVBomBtLc7r" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.exc4lgA9sdHnu86qznLd" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.WySPcVyAtnSgkhpwMg23" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.qoJOqPashtTDDpGE.YfS" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4..LcI_rEnnHJaZO6cDByk" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.EdDX0U74F1tkaP1vbjlw" height="400" width="400" />
 </p>
 
 ## 项目介绍
