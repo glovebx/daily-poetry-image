@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/2 07:05:58
+  最近一次生成时间: 2024/6/3 07:05:43
 </p>
 <p align="center">
-莲子已成荷叶老。青露洗、萍花汀草。
+未成林，难望凤来栖，聊医俗。
 </p>
 <p align="center">
-<<怨王孙·湖上风来波浩渺>> • 李清照
+<<满江红·咏竹>> • 陆容
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG1.s5qNp6HYnQhz8orqy1Xj" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.SRSvLCuH4ckYvStW0NYI" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.E_9I9A993YPeVrtJP7Q0" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.xB3fNkjL94XXm6UTGSY1" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.oUTuZCEEdShTg0ok2HLd" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.dYkjJFVFWwmXfK6TgJY3" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.EWnlfgavPBr_eGkh5CsB" height="400" width="400" />
 </p>
 
 ## 项目介绍
