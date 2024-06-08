@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/8 07:05:47
+  最近一次生成时间: 2024/6/9 07:05:59
 </p>
 <p align="center">
-待约个梅魂，黄昏月淡，与伊深怜低语。
+世间珍果更无加，玉雪肌肤罩绛纱。
 </p>
 <p align="center">
-<<金明池·咏寒柳>> • 柳如是
+<<咏荔枝>> • 丘浚
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG3.jRRCEqJKTnCezDsP5UXi" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG3.T4OAl0wdm.UAEi2UG68e" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG3.zqWBF1UHKFrKaOZ.MIdB" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG3.SjLEeqLxy_D_BXzCSULB" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.haYRUNUfaNV2G4HaUGUl" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.ZgPvvuN9XBubR361tosV" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.zMKhZ6X_D5KnUAe.ZrKn" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.vyHDL9gelu_rAsdGZF58" height="400" width="400" />
 </p>
 
 ## 项目介绍
