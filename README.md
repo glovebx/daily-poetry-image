@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/9 07:05:59
+  最近一次生成时间: 2024/6/10 07:06:03
 </p>
 <p align="center">
-世间珍果更无加，玉雪肌肤罩绛纱。
+惟有今宵，皓彩皆同普。
 </p>
 <p align="center">
-<<咏荔枝>> • 丘浚
+<<醉落魄·丙寅中秋>> • 郭应祥
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG2.haYRUNUfaNV2G4HaUGUl" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.ZgPvvuN9XBubR361tosV" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.zMKhZ6X_D5KnUAe.ZrKn" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.vyHDL9gelu_rAsdGZF58" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.iBg424Gx8JNdbUGo6jTl" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.77EamByHeUf5KJ4zPx5d" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.9qisf.MeSPtF7w_c_G_a" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.SErkgFFvGkp6zG7LpwLU" height="400" width="400" />
 </p>
 
 ## 项目介绍
