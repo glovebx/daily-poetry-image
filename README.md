@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/11 07:05:46
+  最近一次生成时间: 2024/6/12 07:05:39
 </p>
 <p align="center">
-饮马渡秋水，水寒风似刀。
+烟萝翠竹，欠罗袖、为倚天寒日暮。
 </p>
 <p align="center">
-<<塞下曲四首>> • 王昌龄
+<<绛都春·余往来清华池馆六年赋咏屡矣感昔伤今益不堪怀乃复作此解>> • 吴文英
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG4.WSwZnbLu05IQTkOmv9Os" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.cXQZk4AKOTY7sJCQVWnV" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.qnNusB9BbAuvITLmPwvB" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.PSUXBWnlqftSAJZnwlJ_" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.BheUCFVmza2WYlUPOwEV" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.fuF5nqn916P1Ma8B.SJJ" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.IpkH045.2B0FIYGobHBQ" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.1XbHjiWMs0.SpLhPRDx_" height="400" width="400" />
 </p>
 
 ## 项目介绍
