@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/12 07:05:39
+  最近一次生成时间: 2024/6/13 07:05:35
 </p>
 <p align="center">
-烟萝翠竹，欠罗袖、为倚天寒日暮。
+九州生气恃风雷，万马齐喑究可哀。
 </p>
 <p align="center">
-<<绛都春·余往来清华池馆六年赋咏屡矣感昔伤今益不堪怀乃复作此解>> • 吴文英
+<<己亥杂诗·其二百二十>> • 龚自珍
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2.BheUCFVmza2WYlUPOwEV" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.fuF5nqn916P1Ma8B.SJJ" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2.IpkH045.2B0FIYGobHBQ" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.1XbHjiWMs0.SpLhPRDx_" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4._EWhCC6zFGXxg3aRt4.e" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4..csqkQXv4oPnPz.87tXg" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG4.XQbb8kUWubwnalMS2EhQ" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4..M_BPniDyOYpw95_0TBN" height="400" width="400" />
 </p>
 
 ## 项目介绍
