@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/13 07:05:35
+  最近一次生成时间: 2024/6/14 07:06:20
 </p>
 <p align="center">
-九州生气恃风雷，万马齐喑究可哀。
+日啖荔枝三百颗，不辞长作岭南人。
 </p>
 <p align="center">
-<<己亥杂诗·其二百二十>> • 龚自珍
+<<惠州一绝>> • 苏轼
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG4._EWhCC6zFGXxg3aRt4.e" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4..csqkQXv4oPnPz.87tXg" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.XQbb8kUWubwnalMS2EhQ" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4..M_BPniDyOYpw95_0TBN" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.Ubd8Q8TECWsMOF3PRTzI" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG4.tt5JJmSCOaOKwF1CIR_l" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.1ps7H7LLpObREipibNx9" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.UiCaX3V6Kawmht7RhzRy" height="400" width="400" />
 </p>
 
 ## 项目介绍
