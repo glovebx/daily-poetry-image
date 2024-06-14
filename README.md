@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/14 07:06:20
+  最近一次生成时间: 2024/6/15 07:06:04
 </p>
 <p align="center">
-日啖荔枝三百颗，不辞长作岭南人。
+造化钟神秀，阴阳割昏晓。
 </p>
 <p align="center">
-<<惠州一绝>> • 苏轼
+<<望岳>> • 杜甫
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG4.Ubd8Q8TECWsMOF3PRTzI" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.tt5JJmSCOaOKwF1CIR_l" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.1ps7H7LLpObREipibNx9" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.UiCaX3V6Kawmht7RhzRy" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3.ZpaS1MJLCNdX14_Rfgj1" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG3.QQwu0.F3LoyvMgnDmngG" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG3.e08io9oQEp4DJhfADaSo" height="400" width="400" />
 </p>
 
 ## 项目介绍
