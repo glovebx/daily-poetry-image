@@ -62,6 +62,8 @@ async function init() {
     const cwd = process.cwd();
     const argv = require("minimist")(process.argv.slice(2));
 
+    process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+    
     if (argv.cookie) {
         try {
             const res: Response = await getImageBySentence(argv.cookie);
