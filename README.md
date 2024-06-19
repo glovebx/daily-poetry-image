@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/19 07:05:50
+  最近一次生成时间: 2024/6/20 07:05:45
 </p>
 <p align="center">
-浮云蔽白日，游子不顾返。
+矮纸斜行闲作草，晴窗细乳戏分茶。
 </p>
 <p align="center">
-<<行行重行行>> • 佚名
+<<临安春雨初霁>> • 陆游
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG1.8sw12_imuGUXOCdvt3O_" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.BLALmqtKDPQyEAs5bEmt" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.a8nYl8ZQ6607NOsgt9mq" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.DmuEjDt_Zsdcx6mU9G03" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.PizQVSa5r69T4UJDIbjK" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.2p_P9KOyYx1S4K4g.zyF" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.6CdlbfxfDNOFjHBfzVSe" height="400" width="400" />
 </p>
 
 ## 项目介绍
