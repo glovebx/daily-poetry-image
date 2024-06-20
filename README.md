@@ -8,18 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/20 07:05:45
+  最近一次生成时间: 2024/6/21 07:06:48
 </p>
 <p align="center">
-矮纸斜行闲作草，晴窗细乳戏分茶。
+午梦扁舟花底。香满两湖烟水。
 </p>
 <p align="center">
-<<临安春雨初霁>> • 陆游
+<<昭君怨·咏荷上雨>> • 杨万里
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG1.PizQVSa5r69T4UJDIbjK" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.2p_P9KOyYx1S4K4g.zyF" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.6CdlbfxfDNOFjHBfzVSe" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.kdoAp7o.aqN8xDRuuSeE" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.zFAwOKSwow6yOCbmyfHo" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.La3ueO9T7cdHTJssnebk" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG4.k8qq5.9fc.Yme.OnhRJa" height="400" width="400" />
 </p>
 
 ## 项目介绍
