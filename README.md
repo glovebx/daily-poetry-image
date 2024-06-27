@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/27 07:05:40
+  最近一次生成时间: 2024/6/28 07:06:43
 </p>
 <p align="center">
-九曲黄河万里沙，浪淘风簸自天涯。
+孤之有孔明，犹鱼之有水也。
 </p>
 <p align="center">
-<<浪淘沙·九曲黄河万里沙>> • 刘禹锡
+<<隆中对>> • 陈寿
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG1.GeKn_SxXE9qUtOESGB1r" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.4vgFu1dSksisn1puqps7" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.JZ2Zkgbl54fhcUpRKMYl" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.qWEMsORL1lzqpFD9Sv4B" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.tGb4nK9JwJoc7dHqdFJC" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.QJe7_d.u6cQRXgVc6VE." height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.BkKTCAfFYEEIwHRkojOO" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.EJWEuiJuvXQpkHY0K2Uk" height="400" width="400" />
 </p>
 
 ## 项目介绍
