@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/28 07:06:43
+  最近一次生成时间: 2024/6/29 07:06:09
 </p>
 <p align="center">
-孤之有孔明，犹鱼之有水也。
+故乡今夜思千里，霜鬓明朝又一年。
 </p>
 <p align="center">
-<<隆中对>> • 陈寿
+<<除夜作>> • 高适
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG2.tGb4nK9JwJoc7dHqdFJC" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2.QJe7_d.u6cQRXgVc6VE." height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.BkKTCAfFYEEIwHRkojOO" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.EJWEuiJuvXQpkHY0K2Uk" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.bbcbSbX8FzYeg7dHXV3M" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG4.4d6p.SIjXsT8OoLEowEN" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.bBVZuqQfDZT0sJH0EMRy" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG4.nd8Gy3EC8XgDKEFNeOLM" height="400" width="400" />
 </p>
 
 ## 项目介绍
