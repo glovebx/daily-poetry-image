@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/6/30 07:05:37
+  最近一次生成时间: 2024/7/1 07:06:08
 </p>
 <p align="center">
-相思已是不曾闲，又那得、工夫咒你。
+别有幽愁暗恨生，此时无声胜有声。
 </p>
 <p align="center">
-<<鹊桥仙·说盟说誓>> • 蜀妓
+<<琵琶行 / 琵琶引>> • 白居易
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2.kGeKDS7ENYP5th67NZsB" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG2.RQ14pwqKzxPym5D8CQay" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.U7fKEiF9w2V2FEGAmpVr" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.g.qv85tNOxb35V3Hy1Uy" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.WdXugWwA_majcXGORwT1" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.GQnyDAwf3TolV1rMrztE" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.x_WBECpZgkLDcEjchCQ_" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.ecrTWuCLnM4jbI8ddZYs" height="400" width="400" />
 </p>
 
 ## 项目介绍
