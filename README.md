@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/7/13 07:05:49
+  最近一次生成时间: 2024/7/14 07:05:38
 </p>
 <p align="center">
-水满有时观下鹭，草深无处不鸣蛙。
+强携酒、小桥宅，怕梨花落尽成秋色。
 </p>
 <p align="center">
-<<幽居初夏>> • 陆游
+<<淡黄柳·空城晓角>> • 姜夔
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG3.0PnOqjrNTH2XHr9gjVMT" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG3.ZOfgLslnotUrK7ERR7Bg" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG3.X.y6dEDfHvtJDKwhjQUf" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG3.D3TVXP6nk6doY7Y.mRoB" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.ytQXQET3.W6ebnRqCLB3" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.K9IhbFJbKHWFR0xuNgnV" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.gCCSPgmBumzyMMvTKFSk" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.G1qKOrFYNUk9tjMZQDaB" height="400" width="400" />
 </p>
 
 ## 项目介绍
