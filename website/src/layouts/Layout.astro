@@ -19,6 +19,7 @@ const { title, description } = Astro.props as Props;
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+		<link rel='stylesheet' href='https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkai/dist/LXGWWenKai-Bold/result.css' /> 
 		<meta name="generator" content={Astro.generator} />
 		<meta name="view-transition" content="same-origin" />
     <!-- General Meta Tags -->
@@ -31,7 +32,7 @@ const { title, description } = Astro.props as Props;
 		<ViewTransitions />
 
 	</head>
-	<body class="font-sans bg-gray-900 text-white">
+	<body class="bg-gray-900 text-white">
 		<div class="flex flex-col">
 			<Nav />
       <slot />
