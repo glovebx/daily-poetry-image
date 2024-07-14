@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/7/14 07:05:38
+  最近一次生成时间: 2024/7/15 07:06:14
 </p>
 <p align="center">
-强携酒、小桥宅，怕梨花落尽成秋色。
+古木阴中系短篷，杖藜扶我过桥东。
 </p>
 <p align="center">
-<<淡黄柳·空城晓角>> • 姜夔
+<<绝句>> • 志南
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG4.ytQXQET3.W6ebnRqCLB3" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.K9IhbFJbKHWFR0xuNgnV" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.gCCSPgmBumzyMMvTKFSk" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.G1qKOrFYNUk9tjMZQDaB" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.skRTjriP7BHrnVKt.uTW" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2..nKxZE2lvG1HAVOivQfr" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.xzyYgVAM8OBn_2gcPmj8" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.V7xXeIFd8SMro8ZC.0Iu" height="400" width="400" />
 </p>
 
 ## 项目介绍
