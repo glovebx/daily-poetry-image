@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/7/16 07:06:49
+  最近一次生成时间: 2024/7/17 07:05:43
 </p>
 <p align="center">
-黄河之水天上来，奔流到海不复回。
+去来江口守空船，绕船月明江水寒。
 </p>
 <p align="center">
-<<将进酒>> • 李白
+<<琵琶行 / 琵琶引>> • 白居易
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG1.fGBKVMr.zD1Medc7xdX8" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.NWhOzA0oW942P9rfa0z3" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.lBIUig.VrnkxHXqjxxTs" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.JY7_RITgWZTsTewJeTQH" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.9bGr6ZTxQIDfIwlEC1Fd" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.AYOYcTI_GaLfqmyq0DrY" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.pC1yN9pvbq_FoCecdUVn" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.dwO15nWMYnPi6P0BW9Tc" height="400" width="400" />
 </p>
 
 ## 项目介绍
