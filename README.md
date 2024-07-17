@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/7/17 07:05:43
+  最近一次生成时间: 2024/7/18 07:06:27
 </p>
 <p align="center">
-去来江口守空船，绕船月明江水寒。
+满地残红宫锦污，昨夜南园风雨。
 </p>
 <p align="center">
-<<琵琶行 / 琵琶引>> • 白居易
+<<清平乐·春晚>> • 王安国
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2.9bGr6ZTxQIDfIwlEC1Fd" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.AYOYcTI_GaLfqmyq0DrY" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG2.pC1yN9pvbq_FoCecdUVn" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.dwO15nWMYnPi6P0BW9Tc" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.IjNpRfQUlEDlKnQhgRmv" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.YuneZvSSdi1wvkz_Zkw4" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.RI0gTb4J7EcZ7xU1mH3l" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.rOb74_9dJMS.zuI_kWqY" height="400" width="400" />
 </p>
 
 ## 项目介绍
