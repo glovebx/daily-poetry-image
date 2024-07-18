@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/7/18 07:06:27
+  最近一次生成时间: 2024/7/19 07:05:52
 </p>
 <p align="center">
-满地残红宫锦污，昨夜南园风雨。
+今年欢笑复明年，秋月春风等闲度。
 </p>
 <p align="center">
-<<清平乐·春晚>> • 王安国
+<<琵琶行 / 琵琶引>> • 白居易
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG4.IjNpRfQUlEDlKnQhgRmv" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.YuneZvSSdi1wvkz_Zkw4" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.RI0gTb4J7EcZ7xU1mH3l" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.rOb74_9dJMS.zuI_kWqY" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.ArLbElvEW3tn9ljfYUA1" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.GhBTGADh4SXt97Xyo.P9" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.PQUc59kGaHdp_ycZ3EZF" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.BO7j8WYjnPWKBlvlEabh" height="400" width="400" />
 </p>
 
 ## 项目介绍
