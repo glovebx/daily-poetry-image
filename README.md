@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/8/10 07:05:51
+  最近一次生成时间: 2024/8/11 07:06:10
 </p>
 <p align="center">
-小桃无主自开花，烟草茫茫带晓鸦。
+壮心未与年俱老，死去犹能作鬼雄。
 </p>
 <p align="center">
-<<淮村兵后>> • 戴复古
+<<书愤五首·其二>> • 陆游
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.VnfBf21KdboVnAH4etXF" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.2RqRkdcsJVCLj.5GdnKw" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.._arjyKYCTO8KUDCf.W3" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.gCIODlnxkQANZzWGiMxM" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.LwS_VNLWbOCa8nhpBZzf" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.3jWCPX68M2F6hbuNmN8Z" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.xVKyScNytg8C1kUY5DlO" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.j.o.5s10lhuhGU5f4flO" height="400" width="400" />
 </p>
 
 ## 项目介绍
