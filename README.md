@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/8/11 07:06:10
+  最近一次生成时间: 2024/8/12 07:05:43
 </p>
 <p align="center">
-壮心未与年俱老，死去犹能作鬼雄。
+重帏深下莫愁堂，卧后清宵细细长。
 </p>
 <p align="center">
-<<书愤五首·其二>> • 陆游
+<<无题·重帏深下莫愁堂>> • 李商隐
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.LwS_VNLWbOCa8nhpBZzf" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.3jWCPX68M2F6hbuNmN8Z" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.xVKyScNytg8C1kUY5DlO" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.j.o.5s10lhuhGU5f4flO" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.hDC3oFNdnoDRifW3DRx6" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.lV4F4V_3D0USjJfpoCv6" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.YFToPXn6.4yYkh.QX0gB" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1._bfOuUNHXrJVaa5kiI4U" height="400" width="400" />
 </p>
 
 ## 项目介绍
