@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/8/12 07:05:43
+  最近一次生成时间: 2024/8/13 07:06:51
 </p>
 <p align="center">
-重帏深下莫愁堂，卧后清宵细细长。
+新竹高于旧竹枝，全凭老干为扶持。
 </p>
 <p align="center">
-<<无题·重帏深下莫愁堂>> • 李商隐
+<<新竹>> • 郑燮
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG1.hDC3oFNdnoDRifW3DRx6" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.lV4F4V_3D0USjJfpoCv6" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.YFToPXn6.4yYkh.QX0gB" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1._bfOuUNHXrJVaa5kiI4U" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.7DctX4C6GMOD_PuUZdFk" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.Ap56VVB8502TWFf5FLQr" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.h9lWRAqebYotjMCevLGK" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG2.BJovBuency_t0rLZcYFD" height="400" width="400" />
 </p>
 
 ## 项目介绍
