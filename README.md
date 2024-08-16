@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/8/16 07:24:55
+  最近一次生成时间: 2024/8/17 07:06:27
 </p>
 <p align="center">
-况是清明好天气，不妨游衍莫忘归。
+顽老情怀，都无欢事，良宵爱幽独。
 </p>
 <p align="center">
-<<郊行即事>> • 程颢
+<<一寸金·秋感>> • 吴文英
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG2.67SNNppJXc.lNriuy6qz" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.CLbSUHv5BOcgNpEmTTA6" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG2.KLDzcBuPdDCp4SkQuZFo" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG2.ee2H.BnHCv00JVhwzdEO" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.F1VPWvJ0VITfwgObgQf7" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.ujWR2vOGwKLe2qyBnfxW" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.7HkilD71uuF4vCabl_es" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.khg6FoyQfwzUcNQxgHvb" height="400" width="400" />
 </p>
 
 ## 项目介绍
