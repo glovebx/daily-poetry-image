@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/8/17 07:06:27
+  最近一次生成时间: 2024/8/31 00:36:41
 </p>
 <p align="center">
-顽老情怀，都无欢事，良宵爱幽独。
+墉集欺猫鼠，林藏逐雀鹯。
 </p>
 <p align="center">
-<<一寸金·秋感>> • 吴文英
+<<中秋咏怀借杜子美秋日述怀一百韵和寄柳州假鸣桑先生>> • 徐威
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.F1VPWvJ0VITfwgObgQf7" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.ujWR2vOGwKLe2qyBnfxW" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.7HkilD71uuF4vCabl_es" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.khg6FoyQfwzUcNQxgHvb" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.680.hgGKiZSJC9BvKW.W" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.yE_le2aye60Fpqe3bUxl" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.7N7ldLe9bwhXVnKBDxhO" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.AAAXkutDxZp_peplkHsF" height="400" width="400" />
 </p>
 
 ## 项目介绍
