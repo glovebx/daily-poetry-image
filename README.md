@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/8/31 00:36:41
+  最近一次生成时间: 2024/8/31 07:06:32
 </p>
 <p align="center">
-墉集欺猫鼠，林藏逐雀鹯。
+日暮乡关何处是？烟波江上使人愁。
 </p>
 <p align="center">
-<<中秋咏怀借杜子美秋日述怀一百韵和寄柳州假鸣桑先生>> • 徐威
+<<黄鹤楼 / 登黄鹤楼>> • 崔颢
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG1.680.hgGKiZSJC9BvKW.W" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.yE_le2aye60Fpqe3bUxl" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.7N7ldLe9bwhXVnKBDxhO" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.AAAXkutDxZp_peplkHsF" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3.eyT_2fAuMmIbKqD9QF3P" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3.pvApoDIDPQoIGyFLnDih" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3.AmDjR9tMc4ipKStvpT3Z" height="400" width="400" />
 </p>
 
 ## 项目介绍
