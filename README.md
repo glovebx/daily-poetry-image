@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/9/1 07:05:39
+  最近一次生成时间: 2024/9/2 07:05:54
 </p>
 <p align="center">
-日啖荔枝三百颗，不辞长作岭南人。
+若对黄花孤负酒，怕黄花、也笑人岑寂。
 </p>
 <p align="center">
-<<惠州一绝>> • 苏轼
+<<贺新郎·九日>> • 刘克庄
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG3.yJmNzg67HwpvykRjZ06N" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG3.r0F4QMs05_JUWSer2y4w" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG3.4bn7OyrDRyNqIW1ki5b3" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG3.ygXmmeEacTQwiztyZOdD" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.x707KFRCO1EyZxp9w_N0" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.HrUoLhUzNVhps.tZMltL" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.zzyP72kvUpNfTHde8hgw" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.VvELvm9TPyvez_bS87Cg" height="400" width="400" />
 </p>
 
 ## 项目介绍
