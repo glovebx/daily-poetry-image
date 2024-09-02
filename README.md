@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/9/2 07:05:54
+  最近一次生成时间: 2024/9/3 07:05:56
 </p>
 <p align="center">
-若对黄花孤负酒，怕黄花、也笑人岑寂。
+云开汶水孤帆远，路绕梁山匹马迟。
 </p>
 <p align="center">
-<<贺新郎·九日>> • 刘克庄
+<<东平别前卫县李寀少府 / 送前卫县李宷少府>> • 高适
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.x707KFRCO1EyZxp9w_N0" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.HrUoLhUzNVhps.tZMltL" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.zzyP72kvUpNfTHde8hgw" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.VvELvm9TPyvez_bS87Cg" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.pu3Z21lNQrofHWktmotU" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.StHDPhbr1F1iUExl86A2" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.9LpvzzICefi2F9Yl2.2C" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1._R6cJ6cj66z9oGRZMoPM" height="400" width="400" />
 </p>
 
 ## 项目介绍
