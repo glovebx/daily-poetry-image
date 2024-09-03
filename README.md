@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/9/3 07:05:56
+  最近一次生成时间: 2024/9/4 07:06:50
 </p>
 <p align="center">
-云开汶水孤帆远，路绕梁山匹马迟。
+造化钟神秀，阴阳割昏晓。
 </p>
 <p align="center">
-<<东平别前卫县李寀少府 / 送前卫县李宷少府>> • 高适
+<<望岳>> • 杜甫
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG1.pu3Z21lNQrofHWktmotU" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.StHDPhbr1F1iUExl86A2" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.9LpvzzICefi2F9Yl2.2C" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1._R6cJ6cj66z9oGRZMoPM" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.bzg.iC0t96kSCJdlL2T9" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG2.BZw3V0o7KsG_1XVPoqpl" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG2.bY5_SUJYc_wGULeoPdI8" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG2.B6sbbbTkvFWOIi4HeSJs" height="400" width="400" />
 </p>
 
 ## 项目介绍
