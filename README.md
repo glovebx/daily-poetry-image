@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/9/6 07:06:35
+  最近一次生成时间: 2024/9/7 07:06:51
 </p>
 <p align="center">
-门隔花深旧梦游，夕阳无语燕归愁。玉纤香动小帘钩。
+锄禾日当午，汗滴禾下土。
 </p>
 <p align="center">
-<<浣溪沙·门隔花深旧梦游>> • 吴文英
+<<古风二首 / 悯农二首>> • 李绅
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.7s6iJz5PhQIc4YP_BpCG" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.hwomlH8M8IVlRovyy1RJ" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.x1SHEkcehdou28Sab.7o" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG1.VAh3ruIB8uImq2xD181r" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.ECeL280bj9ytmdSN4pNK" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.9CD.HPOmyasDZmrxEtXS" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.Y9M.DY4DnpEO8VzZyO5i" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.b5SUPUew311PaxwEFaNW" height="400" width="400" />
 </p>
 
 ## 项目介绍
