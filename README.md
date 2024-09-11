@@ -8,19 +8,18 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/9/11 07:06:06
+  最近一次生成时间: 2024/9/12 07:05:54
 </p>
 <p align="center">
-有怅寒潮，无情残照，正是萧萧南浦。
+冰骨清寒瘦一枝。玉人初上木兰时。
 </p>
 <p align="center">
-<<金明池·咏寒柳>> • 柳如是
+<<浣溪沙·题李中斋舟中梅屏>> • 吴文英
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG4.SVynthvvG4jHYajk16MR" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG4.4uff9YByp0q8.DgKyAOD" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.Sm1LZMzNiDsvRKXzuZmR" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG4.FvpAj.jRTfEvK9AGIfMu" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.6J1qJV7fo3iFMTNx_NuL" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.8OE4FC6eG45hPci4_UTg" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.rgjs9puQLbVEz9HWcLbx" height="400" width="400" />
 </p>
 
 ## 项目介绍
