@@ -8,18 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/9/12 07:05:54
+  最近一次生成时间: 2024/9/13 07:07:21
 </p>
 <p align="center">
-冰骨清寒瘦一枝。玉人初上木兰时。
+凭栏久，黄芦苦竹，拟泛九江船。
 </p>
 <p align="center">
-<<浣溪沙·题李中斋舟中梅屏>> • 吴文英
+<<满庭芳·夏日溧水无想山作>> • 周邦彦
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG4.6J1qJV7fo3iFMTNx_NuL" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.8OE4FC6eG45hPci4_UTg" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG4.rgjs9puQLbVEz9HWcLbx" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG4.RWcIAenLVpF9_8l59TPm" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.AKN4LOdEHTR22iJvNBGZ" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG4.2CEgVwLVnSLhIoHADlGZ" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG4.e0t.7ALBav8122tEsftx" height="400" width="400" />
 </p>
 
 ## 项目介绍
