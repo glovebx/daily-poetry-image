@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/10/9 07:06:37
+  最近一次生成时间: 2024/10/10 07:06:56
 </p>
 <p align="center">
-斟酌姮娥，九秋宫殿冷。
+了却君王天下事，赢得生前身后名。
 </p>
 <p align="center">
-<<齐天乐·中秋宿真定驿>> • 史达祖
+<<破阵子·为陈同甫赋壮词以寄之>> • 辛弃疾
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG1.d95RlGMeKzKUP9zG4rGT" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.ATeJDnxiPfu.BLcAcqQs" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.7vWWew9SsD6x7YfiEsbp" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.bueEo6hvDxuCpljSfWKZ" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3..4YoASyCdnebu2._AsE1" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG3.giohM4.Zz_lvC.M7Aq4V" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG3.bAG_Vzkp5duTf2kmJIZE" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG3.92PZ_0D.Op048IHiIMRg" height="400" width="400" />
 </p>
 
 ## 项目介绍
