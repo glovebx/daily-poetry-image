@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/10/10 07:06:56
+  最近一次生成时间: 2024/10/11 07:06:16
 </p>
 <p align="center">
-了却君王天下事，赢得生前身后名。
+喃喃教言语，一一刷毛衣。
 </p>
 <p align="center">
-<<破阵子·为陈同甫赋壮词以寄之>> • 辛弃疾
+<<燕诗示刘叟>> • 白居易
 </p>
 <p align="center">
-<img src="https://tse4.mm.bing.net/th/id/OIG3..4YoASyCdnebu2._AsE1" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG3.giohM4.Zz_lvC.M7Aq4V" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG3.bAG_Vzkp5duTf2kmJIZE" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG3.92PZ_0D.Op048IHiIMRg" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.MPAYqlmuKZfkKdQr0ncW" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.xEuW4G4sNMSF_4JBBnTh" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.fGLC9AidpuucGlNP1fTE" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.4Ve9JxEdDXEnkjE6IJoM" height="400" width="400" />
 </p>
 
 ## 项目介绍
