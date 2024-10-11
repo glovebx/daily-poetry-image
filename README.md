@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/10/11 07:06:16
+  最近一次生成时间: 2024/10/12 07:05:58
 </p>
 <p align="center">
-喃喃教言语，一一刷毛衣。
+杜鹃再拜忧天泪，精卫无穷填海心。
 </p>
 <p align="center">
-<<燕诗示刘叟>> • 白居易
+<<赠梁任父母同年 / 题梁任父同年>> • 黄遵宪
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG1.MPAYqlmuKZfkKdQr0ncW" height="400" width="400" />
-<img src="https://tse1.mm.bing.net/th/id/OIG1.xEuW4G4sNMSF_4JBBnTh" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG1.fGLC9AidpuucGlNP1fTE" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG1.4Ve9JxEdDXEnkjE6IJoM" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG3.j0eBoC01wStpUl3DHCeY" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG3.FWHJfgEzubEpZtYsHyJl" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG3.gOxlGeoSAHtuVoh92kwM" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG3.j9YTWANVE01SgpxM5TBz" height="400" width="400" />
 </p>
 
 ## 项目介绍
