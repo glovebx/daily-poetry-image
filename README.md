@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/10/12 07:05:58
+  最近一次生成时间: 2024/10/13 07:06:12
 </p>
 <p align="center">
-杜鹃再拜忧天泪，精卫无穷填海心。
+岂知民力艰，颗米皆琳琅。
 </p>
 <p align="center">
-<<赠梁任父母同年 / 题梁任父同年>> • 黄遵宪
+<<秋日田家杂咏>> • 黄燮清
 </p>
 <p align="center">
-<img src="https://tse2.mm.bing.net/th/id/OIG3.j0eBoC01wStpUl3DHCeY" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG3.FWHJfgEzubEpZtYsHyJl" height="400" width="400" />
-<img src="https://tse4.mm.bing.net/th/id/OIG3.gOxlGeoSAHtuVoh92kwM" height="400" width="400" />
-<img src="https://tse3.mm.bing.net/th/id/OIG3.j9YTWANVE01SgpxM5TBz" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.xcQtJBP3CJtQ9RhUVMa2" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.yYZ5H.UQ176abmiVG9Nn" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.lHGvQRfxMXgNPScLtCNe" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.Inv4KQbEhC.ucUlAS1dA" height="400" width="400" />
 </p>
 
 ## 项目介绍
