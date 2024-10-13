@@ -8,19 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/10/13 07:06:12
+  最近一次生成时间: 2024/10/14 07:06:50
 </p>
 <p align="center">
-岂知民力艰，颗米皆琳琅。
+北风吹雪四更初，嘉瑞天教及岁除。
 </p>
 <p align="center">
-<<秋日田家杂咏>> • 黄燮清
+<<除夜雪>> • 陆游
 </p>
 <p align="center">
-<img src="https://tse1.mm.bing.net/th/id/OIG4.xcQtJBP3CJtQ9RhUVMa2" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.yYZ5H.UQ176abmiVG9Nn" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.lHGvQRfxMXgNPScLtCNe" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG4.Inv4KQbEhC.ucUlAS1dA" height="400" width="400" />
+<img src="https://tse3.mm.bing.net/th/id/OIG1.M9CbznH86841z.tfr2N0" height="400" width="400" />
+<img src="https://tse4.mm.bing.net/th/id/OIG1.XkghlmGpwuWSrK3OZmMT" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG1.lmDi_GMdLYPF9_1urY0s" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG1.2G4sVQZ3dxMnlp1QGCKy" height="400" width="400" />
 </p>
 
 ## 项目介绍
