@@ -8,18 +8,19 @@
 ### 👉🏽 [Live](https://poem.metaerp.ai/) https://poem.metaerp.ai/
 
 <p align="right">
-  最近一次生成时间: 2024/10/21 07:06:03
+  最近一次生成时间: 2024/10/22 07:06:10
 </p>
 <p align="center">
-一年滴尽莲花漏。碧井酴酥沈冻酒。
+笑指吾庐何处是？一池荷叶小桥横。
 </p>
 <p align="center">
-<<玉楼春·己卯岁元日>> • 毛滂
+<<浣溪沙·初夏夜饮归>> • 陈继儒
 </p>
 <p align="center">
-<img src="https://tse3.mm.bing.net/th/id/OIG3.sb6z6OlvqnaWARbtk1X6" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG3.TrsCQYTdZu0XPNU53Ynx" height="400" width="400" />
-<img src="https://tse2.mm.bing.net/th/id/OIG3.UNtmyNW2JfgQYO.pcSAD" height="400" width="400" />
+<img src="https://tse2.mm.bing.net/th/id/OIG4.7zpS2QaOP8ukA0HoMqKB" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.gElvJdjfxnT_yvPbp0LE" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.7HgIS8IMMVcmlEGmUfCU" height="400" width="400" />
+<img src="https://tse1.mm.bing.net/th/id/OIG4.bl5Xrqdjqx4qsn0SnF2w" height="400" width="400" />
 </p>
 
 ## 项目介绍
